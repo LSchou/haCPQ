@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Quotes" max_length="40" name="x_156010_cpq_v2_quotes" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cargo Group" mandatory="true" max_length="255" name="cargo_commodity_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Cargo Type" mandatory="true" max_length="255" name="cargo_commodity_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Light Vehicle" sequence="10" value="LV"/>
+                <element inactive_on_update="false" label="High &amp; Heavy" sequence="20" value="HH"/>
+                <element inactive_on_update="false" label="Break Bulk" sequence="30" value="BB"/>
+            </choice>
+        </element>
+        <element label="Factory New" max_length="40" name="factory_new" type="boolean"/>
+        <element label="Height" max_length="40" name="height" type="float"/>
+        <element label="Length" max_length="40" name="length" type="float"/>
+        <element label="Mafi Minimum" max_length="40" name="mafi_minimum" type="boolean"/>
+        <element label="Military" max_length="40" name="military" type="boolean"/>
+        <element label="Minimum static pricing per piece/unit" max_length="40" name="minimum_static_pricing_per_piece_unit" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Over-height" max_length="40" name="over_height" read_only="true" type="boolean"/>
+        <element label="Over-length" max_length="40" name="over_length" read_only="true" type="boolean"/>
+        <element label="Over-weight" max_length="40" name="over_weight" read_only="true" type="boolean"/>
+        <element label="Over-width" max_length="40" name="over_width" read_only="true" type="boolean"/>
+        <element label="Panama canal fee" max_length="40" name="panama_canal_fee" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Port of Discharging" max_length="255" name="port_of_discharging" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Port of Lading" max_length="255" name="port_of_lading" type="string"/>
+        <element choice="1" dependent="cargo_commodity_type" dependent_on_field="cargo_commodity_type" label="Cargo Segment" mandatory="true" max_length="255" name="price_statistics_classification" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="BB" inactive_on_update="false" label="Accompanying Static" value="Accompanying Static"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Cabledrum" value="Cabledrum"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Forest Products" value="Forest Products"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Other Break Bulk" value="Other Break Bulk"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Other static (crates/cases)" value="Other static (crates/cases)"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Rail / Tram" value="Rail / Tram"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Transformer / Generator" value="Transformer / Generator"/>
+                <element dependent_value="BB" inactive_on_update="false" label="Unpacked Machinery" value="Unpacked Machinery"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Truck" sequence="0" value="Truck"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Buss" sequence="1" value="Buss"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Chassis" sequence="2" value="Chassis"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Excavator" sequence="3" value="Excavator"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Crane" sequence="4" value="Crane"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Combines" sequence="5" value="Combines"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Forklift" sequence="6" value="Forklift"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Crates/Cases" sequence="7" value="Crates/Cases"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Boat on Trailer" sequence="8" value="Boat on Trailer"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Concrete Mixer" sequence="9" value="Concrete Mixer"/>
+                <element dependent_value="HH" inactive_on_update="false" label="Other High &amp; Heavy" sequence="10" value="Other High &amp; Heavy"/>
+            </choice>
+        </element>
+        <element display="true" label="Rolling?" max_length="40" name="rolling" type="boolean"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Towable" max_length="40" name="towable" type="boolean"/>
+        <element label="Tracked" max_length="40" name="tracked" type="boolean"/>
+        <element label="War risk surcharge" max_length="40" name="war_risk_surcharge" type="boolean"/>
+        <element label="Weight" max_length="40" name="weight" type="float"/>
+        <element label="Width" max_length="40" name="width" type="float"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="price_statistics_classification" table="x_156010_cpq_v2_quotes" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>price_statistics_classification</element>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:01:26</sys_created_on>
+            <sys_id>9d3c3dcc079001101b7cf48f7c1ed0f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>price_statistics_classification</sys_name>
+            <sys_package display_value="Configure Price Quote" source="x_156010_cpq_v2">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Configure Price Quote">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_scope>
+            <sys_update_name>sys_choice_x_156010_cpq_v2_quotes_price_statistics_classification</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:01:26</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accompanying Static</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:25:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f91cac007d001101b7cf48f7c1ed0ac</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:25:41</sys_updated_on>
+            <value>Accompanying Static</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cabledrum</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:24:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b271cec007d001101b7cf48f7c1ed0fb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:24:52</sys_updated_on>
+            <value>Cabledrum</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forest Products</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:26:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63b1420407d001101b7cf48f7c1ed08c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:26:13</sys_updated_on>
+            <value>Forest Products</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other Break Bulk</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:27:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7112cec007d001101b7cf48f7c1ed07f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:27:46</sys_updated_on>
+            <value>Other Break Bulk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other static (crates/cases)</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:27:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ad1c20407d001101b7cf48f7c1ed0f2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:27:15</sys_updated_on>
+            <value>Other static (crates/cases)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rail / Tram</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:25:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f818a8007d001101b7cf48f7c1ed068</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:25:12</sys_updated_on>
+            <value>Rail / Tram</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transformer / Generator</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:24:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a061cec007d001101b7cf48f7c1ed0b8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:24:36</sys_updated_on>
+            <value>Transformer / Generator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>BB</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unpacked Machinery</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:24:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c73102c007d001101b7cf48f7c1ed04a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:24:12</sys_updated_on>
+            <value>Unpacked Machinery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Truck</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:01:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e1cf9cc079001101b7cf48f7c1ed0a8</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Truck</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buss</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:02:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d06c39c8079001101b7cf48f7c1ed0c2</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Buss</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chassis</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:02:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>764cbdcc079001101b7cf48f7c1ed05c</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Chassis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Excavator</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:03:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>898c71cc079001101b7cf48f7c1ed05a</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Excavator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crane</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:03:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d9c7584079001101b7cf48f7c1ed0a9</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Crane</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Combines</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:05:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aac710007d001101b7cf48f7c1ed0b9</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Combines</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forklift</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:05:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa0dfdcc079001101b7cf48f7c1ed0cb</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Forklift</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Crates/Cases</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:06:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b1dbdcc079001101b7cf48f7c1ed080</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Crates/Cases</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Boat on Trailer</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d4d3d8c079001101b7cf48f7c1ed011</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:18</sys_updated_on>
+            <value>Boat on Trailer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Concrete Mixer</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:06:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>255df10007d001101b7cf48f7c1ed042</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:18</sys_updated_on>
+            <value>Concrete Mixer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HH</dependent_value>
+            <element>price_statistics_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other High &amp; Heavy</label>
+            <language>en</language>
+            <name>x_156010_cpq_v2_quotes</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 15:07:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b07df10007d001101b7cf48f7c1ed043</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-03 15:23:17</sys_updated_on>
+            <value>Other High &amp; Heavy</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>cargo_commodity_group</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-14 14:30:05</sys_created_on>
+        <sys_id>736e1aef07d001101b7cf48f7c1ed028</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cargo_commodity_group</sys_name>
+        <sys_package display_value="Configure Price Quote" source="x_156010_cpq_v2">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Configure Price Quote">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_scope>
+        <sys_update_name>sys_ui_policy_action_736e1aef07d001101b7cf48f7c1ed028</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-14 14:30:05</sys_updated_on>
+        <table>x_156010_cpq_v2_quotes</table>
+        <ui_policy display_value="High &amp; Heavy">6a9d9eaf07d001101b7cf48f7c1ed00e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
