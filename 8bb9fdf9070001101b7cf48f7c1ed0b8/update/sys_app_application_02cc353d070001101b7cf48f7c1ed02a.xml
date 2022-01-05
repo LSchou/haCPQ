@@ -14,16 +14,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>02cc353d070001101b7cf48f7c1ed02a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Lars Øhrberg's Mockup of Quotation Tool </sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lars Øhrberg's Mockup Quotation Tool </sys_name>
         <sys_overrides/>
         <sys_package display_value="Configure Price Quote" source="x_156010_cpq_v2">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Configure Price Quote">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_scope>
         <sys_update_name>sys_app_application_02cc353d070001101b7cf48f7c1ed02a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-26 15:17:37</sys_updated_on>
-        <title>Lars Øhrberg's Mockup of Quotation Tool </title>
+        <sys_updated_on>2022-01-05 09:34:45</sys_updated_on>
+        <title>Lars Øhrberg's Mockup Quotation Tool </title>
         <view_name/>
     </sys_app_application>
 </record_update>
