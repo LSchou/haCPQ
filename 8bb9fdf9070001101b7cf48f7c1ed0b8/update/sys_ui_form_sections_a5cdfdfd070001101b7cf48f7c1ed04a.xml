@@ -98,6 +98,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-01-12 17:29:42</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-12 17:33:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5aed849070101101b7cf48f7c1ed0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156010_cpq_v2_quotes" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a5cdfdfd070001101b7cf48f7c1ed04a</sys_ui_form>
+            <sys_ui_section caption="Number of Cargo Units matching the above" display_value="Number of Cargo Units matching the above" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">7daed849070101101b7cf48f7c1ed02c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:33:42</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_156010_cpq_v2_quotes</name>
             <roles/>
