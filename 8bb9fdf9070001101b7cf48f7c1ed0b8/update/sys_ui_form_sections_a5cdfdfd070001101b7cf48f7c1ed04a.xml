@@ -45,30 +45,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-11-26 15:48:33</sys_created_on>
+            <sys_created_on>2022-01-12 17:28:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d7d34275074001101b7cf48f7c1ed0ef</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>998dd809070101101b7cf48f7c1ed0af</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_156010_cpq_v2_quotes" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a5cdfdfd070001101b7cf48f7c1ed04a</sys_ui_form>
-            <sys_ui_section caption="Service Mapping Triggers Light Vehicles" display_value="Service Mapping Triggers Light Vehicles" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">13d34275074001101b7cf48f7c1ed0d3</sys_ui_section>
+            <sys_ui_section caption="Quantity" display_value="Quantity" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">d58dd809070101101b7cf48f7c1ed078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-11-26 15:48:33</sys_updated_on>
+            <sys_updated_on>2022-01-12 17:28:45</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-12-03 11:16:53</sys_created_on>
+            <sys_created_on>2021-11-26 15:48:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3bc88948071001101b7cf48f7c1ed041</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>d7d34275074001101b7cf48f7c1ed0ef</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_156010_cpq_v2_quotes" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a5cdfdfd070001101b7cf48f7c1ed04a</sys_ui_form>
-            <sys_ui_section caption="Service Mapping Triggers Static Cargo" display_value="Service Mapping Triggers Static Cargo" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">7bc88948071001101b7cf48f7c1ed023</sys_ui_section>
+            <sys_ui_section caption="Service Mapping Triggers Light Vehicles" display_value="Service Mapping Triggers Light Vehicles" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">13d34275074001101b7cf48f7c1ed0d3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-03 11:16:53</sys_updated_on>
+            <sys_updated_on>2022-01-12 17:28:45</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>5</position>
@@ -76,13 +76,13 @@
             <sys_created_on>2021-12-03 11:16:53</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7bc88948071001101b7cf48f7c1ed045</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>3bc88948071001101b7cf48f7c1ed041</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_156010_cpq_v2_quotes" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a5cdfdfd070001101b7cf48f7c1ed04a</sys_ui_form>
-            <sys_ui_section caption="Service Mapping Triggers High &amp; Heavy" display_value="Service Mapping Triggers High &amp; Heavy" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">3fc88948071001101b7cf48f7c1ed024</sys_ui_section>
+            <sys_ui_section caption="Service Mapping Triggers Static Cargo" display_value="Service Mapping Triggers Static Cargo" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">7bc88948071001101b7cf48f7c1ed023</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-03 11:16:53</sys_updated_on>
+            <sys_updated_on>2022-01-12 17:28:45</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>6</position>
@@ -90,13 +90,27 @@
             <sys_created_on>2021-12-03 11:16:53</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bc88948071001101b7cf48f7c1ed045</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_156010_cpq_v2_quotes" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a5cdfdfd070001101b7cf48f7c1ed04a</sys_ui_form>
+            <sys_ui_section caption="Service Mapping Triggers High &amp; Heavy" display_value="Service Mapping Triggers High &amp; Heavy" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">3fc88948071001101b7cf48f7c1ed024</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-12 17:28:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-03 11:16:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>4cd88948071001101b7cf48f7c1ed049</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_156010_cpq_v2_quotes" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a5cdfdfd070001101b7cf48f7c1ed04a</sys_ui_form>
             <sys_ui_section caption="Trade Lane" display_value="Trade Lane" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">77c88948071001101b7cf48f7c1ed025</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-03 11:16:53</sys_updated_on>
+            <sys_updated_on>2022-01-12 17:28:45</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_156010_cpq_v2_quotes</name>

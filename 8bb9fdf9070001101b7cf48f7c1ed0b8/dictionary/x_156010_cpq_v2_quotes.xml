@@ -45,7 +45,8 @@
                 <element dependent_value="HH" inactive_on_update="false" label="Other High &amp; Heavy" sequence="10" value="Other High &amp; Heavy"/>
             </choice>
         </element>
-        <element display="true" label="Rolling?" max_length="40" name="rolling" type="boolean"/>
+        <element display="true" label="Quantity" mandatory="true" max_length="4" name="quantity" type="integer"/>
+        <element label="Rolling?" max_length="40" name="rolling" type="boolean"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="Towable" max_length="40" name="towable" type="boolean"/>
         <element label="Tracked" max_length="40" name="tracked" type="boolean"/>

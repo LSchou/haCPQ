@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="rolling" table="x_156010_cpq_v2_quotes">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="quantity" table="x_156010_cpq_v2_quotes">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Rolling?</column_label>
+        <column_label>Quantity</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -17,19 +22,19 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>rolling</element>
+        <element>quantity</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">boolean</internal_type>
-        <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <internal_type display_value="Integer">integer</internal_type>
+        <mandatory>true</mandatory>
+        <max_length>4</max_length>
         <name>x_156010_cpq_v2_quotes</name>
         <next_element/>
         <primary>false</primary>
@@ -47,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-11-26 15:14:53</sys_created_on>
-        <sys_id>062c79bd070001101b7cf48f7c1ed01e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Rolling?</sys_name>
+        <sys_created_on>2022-01-12 17:26:53</sys_created_on>
+        <sys_id>25dc1009070101101b7cf48f7c1ed060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quantity</sys_name>
         <sys_package display_value="Configure Price Quote" source="x_156010_cpq_v2">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Configure Price Quote">8bb9fdf9070001101b7cf48f7c1ed0b8</sys_scope>
-        <sys_update_name>sys_dictionary_x_156010_cpq_v2_quotes_rolling</sys_update_name>
+        <sys_update_name>sys_dictionary_x_156010_cpq_v2_quotes_quantity</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-12 17:26:54</sys_updated_on>
+        <sys_updated_on>2022-01-12 17:26:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
