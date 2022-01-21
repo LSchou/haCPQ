@@ -4,13 +4,13 @@
             <element>factory_new</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-10 17:35:58</sys_created_on>
-            <sys_id>d7fb8614070101101b7cf48f7c1ed0f5</sys_id>
+            <sys_created_on>2022-01-21 14:17:50</sys_created_on>
+            <sys_id>8c28023f074101101b7cf48f7c1ed084</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Mapping Triggers Light Vehicles" display_value="Service Mapping Triggers Light Vehicles" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">13d34275074001101b7cf48f7c1ed0d3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-10 17:35:58</sys_updated_on>
+            <sys_updated_on>2022-01-21 14:17:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
