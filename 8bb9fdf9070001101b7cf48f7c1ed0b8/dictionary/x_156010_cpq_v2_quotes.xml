@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Quotes" max_length="40" name="x_156010_cpq_v2_quotes" sizeclass="1" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Cargo Group" mandatory="true" max_length="255" name="cargo_commodity_group" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" label="Cargo Type" mandatory="true" max_length="255" name="cargo_commodity_type" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cargo Group" mandatory="true" max_length="255" name="cargo_commodity_group" type="string">
             <choice>
                 <element inactive_on_update="false" label="Light Vehicle" sequence="10" value="LV"/>
                 <element inactive_on_update="false" label="High &amp; Heavy" sequence="20" value="HH"/>
                 <element inactive_on_update="false" label="Break Bulk" sequence="30" value="BB"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Cargo Type" mandatory="true" max_length="255" name="cargo_commodity_type" type="string">
+            <choice/>
+        </element>
+        <element label="Customer" mandatory="true" max_length="255" name="customer" type="string"/>
         <element label="Factory New" max_length="40" name="factory_new" type="boolean"/>
         <element label="Height" max_length="40" name="height" type="float"/>
         <element label="Length" max_length="40" name="length" type="float"/>
@@ -47,9 +50,11 @@
         </element>
         <element display="true" label="Quantity" mandatory="true" max_length="4" name="quantity" type="integer"/>
         <element label="Rolling?" max_length="40" name="rolling" type="boolean"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Towable" max_length="40" name="towable" type="boolean"/>
         <element label="Tracked" max_length="40" name="tracked" type="boolean"/>
+        <element label="Trade" max_length="255" name="trade" type="string"/>
+        <element label="Trade Lane" max_length="255" name="trade_lane" type="string"/>
         <element label="War risk surcharge" max_length="40" name="war_risk_surcharge" type="boolean"/>
         <element label="Weight" max_length="40" name="weight" type="float"/>
         <element label="Width" max_length="40" name="width" type="float"/>
