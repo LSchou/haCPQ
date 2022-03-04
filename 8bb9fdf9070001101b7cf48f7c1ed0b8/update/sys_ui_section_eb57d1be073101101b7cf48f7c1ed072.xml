@@ -3,150 +3,150 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>131999fe073101101b7cf48f7c1ed0b4</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>089a7e15070201101b7cf48f7c1ed09c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <text>Info Box Blue</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>d31999fe073101101b7cf48f7c1ed0b4</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>c89a7e15070201101b7cf48f7c1ed09c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <text>Info Box Red</text>
             <type display_value="Info Box Red">823f88a80f930000b12e6903cfe01209</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>971999fe073101101b7cf48f7c1ed0b4</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>8c9a7e15070201101b7cf48f7c1ed09c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <text>Line Separator</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>5b1999fe073101101b7cf48f7c1ed0b4</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>409a7e15070201101b7cf48f7c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <text>Section Details</text>
             <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>1f1999fe073101101b7cf48f7c1ed0b4</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>049a7e15070201101b7cf48f7c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <text>Sectino Separator</text>
             <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>df1999fe073101101b7cf48f7c1ed0b4</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>c49a7e15070201101b7cf48f7c1ed09d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <text>Text</text>
             <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>131999fe073101101b7cf48f7c1ed0b4</element>
+            <element>089a7e15070201101b7cf48f7c1ed09c</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>171999fe073101101b7cf48f7c1ed0b9</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>0c9a7e15070201101b7cf48f7c1ed0a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation Options" display_value="Annotation Options" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">eb57d1be073101101b7cf48f7c1ed072</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>d31999fe073101101b7cf48f7c1ed0b4</element>
+            <element>c89a7e15070201101b7cf48f7c1ed09c</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>971999fe073101101b7cf48f7c1ed0b9</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>8c9a7e15070201101b7cf48f7c1ed0a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation Options" display_value="Annotation Options" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">eb57d1be073101101b7cf48f7c1ed072</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>971999fe073101101b7cf48f7c1ed0b4</element>
+            <element>8c9a7e15070201101b7cf48f7c1ed09c</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>1b1999fe073101101b7cf48f7c1ed0b9</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>009a7e15070201101b7cf48f7c1ed0a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation Options" display_value="Annotation Options" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">eb57d1be073101101b7cf48f7c1ed072</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>5b1999fe073101101b7cf48f7c1ed0b4</element>
+            <element>409a7e15070201101b7cf48f7c1ed09d</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>9b1999fe073101101b7cf48f7c1ed0b9</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>909a7e15070201101b7cf48f7c1ed0a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation Options" display_value="Annotation Options" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">eb57d1be073101101b7cf48f7c1ed072</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>1f1999fe073101101b7cf48f7c1ed0b4</element>
+            <element>049a7e15070201101b7cf48f7c1ed09d</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>1f1999fe073101101b7cf48f7c1ed0b9</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>149a7e15070201101b7cf48f7c1ed0a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation Options" display_value="Annotation Options" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">eb57d1be073101101b7cf48f7c1ed072</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>df1999fe073101101b7cf48f7c1ed0b4</element>
+            <element>c49a7e15070201101b7cf48f7c1ed09d</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-02-24 15:05:36</sys_created_on>
-            <sys_id>9f1999fe073101101b7cf48f7c1ed0b9</sys_id>
+            <sys_created_on>2022-03-04 16:36:10</sys_created_on>
+            <sys_id>949a7e15070201101b7cf48f7c1ed0a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation Options" display_value="Annotation Options" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">eb57d1be073101101b7cf48f7c1ed072</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-24 15:05:36</sys_updated_on>
+            <sys_updated_on>2022-03-04 16:36:10</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
