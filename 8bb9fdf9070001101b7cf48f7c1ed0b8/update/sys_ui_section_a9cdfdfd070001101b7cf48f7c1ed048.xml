@@ -3,36 +3,36 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>0c9a7e15070201101b7cf48f7c1ed05e</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>92d6bf16070201101b7cf48f7c1ed018</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <text>Cargo Characteristics</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>cc9a7e15070201101b7cf48f7c1ed05e</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>56d6bf16070201101b7cf48f7c1ed018</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <text>Specify dimensions below</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>0c9a7e15070201101b7cf48f7c1ed05e</element>
+            <element>92d6bf16070201101b7cf48f7c1ed018</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>4c9a7e15070201101b7cf48f7c1ed07e</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>56d6bf16070201101b7cf48f7c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -40,13 +40,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>cc9a7e15070201101b7cf48f7c1ed07e</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>d6d6bf16070201101b7cf48f7c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -54,13 +54,13 @@
             <element>rolling</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>409a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>5ad6bf16070201101b7cf48f7c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -68,13 +68,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c09a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>dad6bf16070201101b7cf48f7c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -82,13 +82,13 @@
             <element>.end_split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>449a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>5ed6bf16070201101b7cf48f7c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -96,13 +96,13 @@
             <element>.begin_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c49a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>ded6bf16070201101b7cf48f7c1ed01f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -110,13 +110,13 @@
             <element>cargo_commodity_group</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>489a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>52d6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -124,13 +124,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c89a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>d2d6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -138,13 +138,13 @@
             <element>cargo_commodity_type</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>4c9a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>56d6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -152,27 +152,27 @@
             <element>.end_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>cc9a7e15070201101b7cf48f7c1ed07f</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>d6d6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cc9a7e15070201101b7cf48f7c1ed05e</element>
+            <element>56d6bf16070201101b7cf48f7c1ed018</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>409a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>5ad6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -180,13 +180,13 @@
             <element>.begin_split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c09a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>dad6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -194,13 +194,13 @@
             <element>weight</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>449a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>5ed6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -208,13 +208,13 @@
             <element>height</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c49a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>ded6bf16070201101b7cf48f7c1ed020</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -222,13 +222,13 @@
             <element>width</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>489a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>52d6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -236,13 +236,13 @@
             <element>length</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c89a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>d2d6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -250,13 +250,13 @@
             <element>.split</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>4c9a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>56d6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -264,13 +264,13 @@
             <element>over_weight</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>cc9a7e15070201101b7cf48f7c1ed080</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>d6d6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -278,13 +278,13 @@
             <element>over_height</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>409a7e15070201101b7cf48f7c1ed081</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>5ad6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -292,13 +292,13 @@
             <element>over_width</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>c09a7e15070201101b7cf48f7c1ed081</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>dad6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -306,13 +306,13 @@
             <element>over_length</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-03-04 16:36:09</sys_created_on>
-            <sys_id>449a7e15070201101b7cf48f7c1ed081</sys_id>
+            <sys_created_on>2022-03-07 23:33:28</sys_created_on>
+            <sys_id>5ed6bf16070201101b7cf48f7c1ed021</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Quote Lines" display_value="Quote Lines" name="x_156010_cpq_v2_quotes" sys_domain="global" view="Default view">a9cdfdfd070001101b7cf48f7c1ed048</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-03-04 16:36:09</sys_updated_on>
+            <sys_updated_on>2022-03-07 23:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
