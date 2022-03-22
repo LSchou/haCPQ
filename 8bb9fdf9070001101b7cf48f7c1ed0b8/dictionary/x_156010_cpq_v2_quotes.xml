@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Quotes" max_length="40" name="x_156010_cpq_v2_quotes" sizeclass="1" type="collection">
+        <element label="Battery electric" max_length="40" name="battery_electric" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Cargo Group" mandatory="true" max_length="255" name="cargo_commodity_group" type="string">
             <choice>
                 <element inactive_on_update="false" label="Light Vehicle" sequence="10" value="LV"/>
@@ -12,12 +13,14 @@
         </element>
         <element label="Customer" mandatory="true" max_length="255" name="customer" type="string"/>
         <element label="Factory New" max_length="40" name="factory_new" type="boolean"/>
+        <element label="Forkliftable" max_length="40" name="forkliftable" type="boolean"/>
         <element label="Height" max_length="40" name="height" type="float"/>
         <element label="Length" max_length="40" name="length" type="float"/>
         <element label="Mafi Minimum" max_length="40" name="mafi_minimum" type="boolean"/>
         <element label="Military" max_length="40" name="military" type="boolean"/>
         <element label="Minimum static pricing per piece/unit" max_length="40" name="minimum_static_pricing_per_piece_unit" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="On roll-trailer" max_length="40" name="on_roll_trailer" type="boolean"/>
         <element label="Over-height" max_length="40" name="over_height" read_only="true" type="boolean"/>
         <element label="Over-length" max_length="40" name="over_length" read_only="true" type="boolean"/>
         <element label="Over-weight" max_length="40" name="over_weight" read_only="true" type="boolean"/>
@@ -50,6 +53,7 @@
         </element>
         <element display="true" label="Quantity" mandatory="true" max_length="4" name="quantity" type="integer"/>
         <element label="Rolling?" max_length="40" name="rolling" type="boolean"/>
+        <element label="Self-propelled" max_length="40" name="self_propelled" type="boolean"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Towable" max_length="40" name="towable" type="boolean"/>
         <element label="Tracked" max_length="40" name="tracked" type="boolean"/>
@@ -57,6 +61,7 @@
         <element label="Trade Lane" max_length="255" name="trade_lane" type="string"/>
         <element label="War risk surcharge" max_length="40" name="war_risk_surcharge" type="boolean"/>
         <element label="Weight" max_length="40" name="weight" type="float"/>
+        <element label="Wheeled" max_length="40" name="wheeled" type="boolean"/>
         <element label="Width" max_length="40" name="width" type="float"/>
         <index name="index">
             <element name="sys_class_name"/>
